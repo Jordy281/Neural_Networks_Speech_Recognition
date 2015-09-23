@@ -35,7 +35,7 @@ end
 %% Create Net and Train it
 
 layer1=24;
-layer2=m;
+layer2=1;
 layer3=512;
 layer4=1;
 
