@@ -7,5 +7,4 @@ what the word is based on the wav signature.
 
 To get started run the DNN.m (Deep Neural Network) script.
 
-In that file you can adjust the amount of nodes and layers to get the best possible combination. My test results have it
-set so that the set parameters produce the optial results
+In that file you can adjust the amount of nodes and layers to get the best possible combination. The default node and layer settings are set to be optimal.
